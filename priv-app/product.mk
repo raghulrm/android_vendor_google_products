@@ -1,6 +1,7 @@
 # CyanogenMod Mobile Services
 PRODUCT_PACKAGES += \
     CalendarProvider \
+    ConfigUpdater \
     GoogleBackupTransport \
     GoogleFeedback \
     GoogleLoginService \
@@ -8,6 +9,6 @@ PRODUCT_PACKAGES += \
     GooglePartnerSetup \
     GoogleServicesFramework \
     Phonesky \
-    PrebuiltGmsCore \
+    GmsCore \
     SetupWizard \
     Velvet
